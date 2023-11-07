@@ -3,15 +3,27 @@
 @import "./global/utilidades/cores.css";
 
 @import "./global/header.css";
+@import "./global/footer.css";
 
 /*HOME*/
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
+@import "./home/depoimento.css";
 
 /*COMPONENTES*/
 @import "./global/utilidades/componentes.css";
 
 /*BICICLETAS*/
 @import "./bicicletas/bicicletas-lista.css";
+@import "./bicicletas/bicicletas.css";
 
+/*SEGUROS*/
+
+@import "./seguros/seguros.css";
+@import "./seguros/vantagens.css";
+@import "./seguros/perguntas.css";
+
+/*TERMOS*/
+
+@import "./termos/termos.css";
