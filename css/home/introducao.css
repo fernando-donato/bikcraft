@@ -31,8 +31,6 @@
   color: #b2b2b2;
 }
 
-
-
 @media (max-width: 800px) {
   .introducao-bg {
     background: var(--cor-11);
